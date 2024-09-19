@@ -29,12 +29,12 @@ When generating embeddings using a **NVIDIA RTX 3090** GPU, this process can han
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sethigoldy/text_embedding_processor_python.git
+   git clone https://github.com/sethigoldy/text_embedding_processor_mongodb_vector_python.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd text_embedding_processor_python
+   cd text_embedding_processor_mongodb_vector_python
    ```
 
 3. Install the required Python packages:
