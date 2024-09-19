@@ -1,4 +1,4 @@
-# MongoDB Document Embedding and Search
+# MongoDB Document Embedding and Search using Vectors
 
 This repository contains two Python scripts that demonstrate how to generate embeddings using the DistilBERT model and process documents in a MongoDB database. The goal is to embed text data and perform vector searches to retrieve relevant documents.
 
