@@ -1,0 +1,8 @@
+
+transformers==4.42.4
+flash-attn==2.2.0
+sentence-transformers==3.1.0
+einops
+datasets
+pymongo==4.8.0
+motor==3.5.1
